@@ -27,5 +27,30 @@ sections:
     
       # Automatically link email and phone or display as text?
       autolink: true
-    
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |
+        <center>
+        <a href="https://bioconductor.org/packages/devel/bioc/html/spatialHeatmap.html" target="_blank">Bioconductor</a>&ensp;&ensp;
+        <a href="https://tgirke.shinyapps.io/spatialHeatmap/" target="_blank">Web Instance</a>&ensp;&ensp;
+        <a href="https://github.com/jianhaizhang/spatialHeatmap" target="_blank">GitHub</a>
+        </center>
+        <style>
+        #section-markdown {
+          padding:0
+        }
+        .fa-brands.fa-github {
+          font-size:30px
+        }
+        .home-section:nth-of-type(even) {
+          background:#fff
+        }
+        </style>
+
 ---
+
+
+

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Dr. Le Zhang
+title: Jianhai Zhang
 
 # Full Name (for SEO)
-first_name: Le
+first_name: Jianhai
 last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Alumni
+role: Graduate student
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +18,7 @@ organizations:
     url: 'https://girke.bioinformatics.ucr.edu/'
 
 user_groups:
-  - Alumni
+  - Members
 ---
 
+Profile site: <a href="http://girke.bioinformatics.ucr.edu/members/jianhai-zhang/" target="_blank">http://girke.bioinformatics.ucr.edu/members/jianhai-zhang/</a>. 

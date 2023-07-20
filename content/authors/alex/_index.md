@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jianhai Zhang
+title: Alex Borowsky
 
 # Full Name (for SEO)
-first_name: Jianhai
-last_name: Zhang
+first_name: Alex
+last_name: Borowsky
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,6 +18,7 @@ organizations:
     url: 'https://girke.bioinformatics.ucr.edu/'
 
 user_groups:
-  - Grad Students
+  - Members
 ---
 
+Profile site: <a href="https://www.alexborowsky.com/" target="_blank">https://www.alexborowsky.com/</a>.

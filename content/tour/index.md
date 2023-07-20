@@ -13,19 +13,30 @@ sections:
         align: center
         background:
           image:
-            filename: eshm.jpg
+            filename: input_image.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
           size: contain
           padding: ['20px', '0', '20px', '0']
+      - title: Assay and image data
+        content: ''
+        align: center
+        background:
+          image:
+            filename: data.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+          size: contain
       - title: Co-visualizing bulk and single-cell assay data
         content: ''
         align: center
         background:
           image:
-            filename: covis.jpg
+            filename: output.jpg
             filters:
               brightness: 0.7
           position: center
@@ -41,17 +52,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-          size: contain
-      - title: Assay and image data
-        content: ''
-        align: center
-        background:
-          image:
-            filename: data.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
           size: contain
       - title: Command-line and interactive implementation
         content: ''
@@ -83,10 +83,10 @@ sections:
       subtitle: 
       text: | 
         <style>
-        .carousel-item.fullscreen {background-size: 100% !important;}
+        .carousel-item.fullscreen {background-size: 50% !important;}
         .carousel-item.fullscreen.active {background-color: #ffffff !important;} 
         .position-absolute.d-flex.w-100.h-100 {backdrop-filter: brightness(1) !important;} 
-        .wg-hero.dark.container {transform: translateY(-85%);} 
+        .wg-hero.dark.container {display:none; transform: translateY(-84%);} 
         .wg-hero.dark.container > * {color: black !important;}
         .carousel-control-next-icon, .carousel-control-prev-icon {filter: invert(1);}
         </style>
