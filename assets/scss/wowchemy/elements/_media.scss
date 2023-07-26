@@ -37,7 +37,7 @@ video {
 
 /* Transform the image scale when container gets hovered */
 .img-hover-zoom:hover img {
-  transform: scale(1.1);
+  transform: scale(1.01);
 }
 
 /*************************************************
@@ -162,7 +162,7 @@ svg {
   }
 
   &:hover {
-    transform: scale(1.1);
+    transform: scale(1.01);
 
     //&:after {
     //  opacity: 0;

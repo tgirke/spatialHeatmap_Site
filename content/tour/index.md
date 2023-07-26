@@ -83,6 +83,7 @@ sections:
       subtitle: 
       text: | 
         <style>
+        #section-markdown { display:none }
         .carousel-item.fullscreen {background-size: 50% !important;}
         .carousel-item.fullscreen.active {background-color: #ffffff !important;} 
         .position-absolute.d-flex.w-100.h-100 {backdrop-filter: brightness(1) !important;} 
