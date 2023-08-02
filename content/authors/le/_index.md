@@ -18,7 +18,7 @@ organizations:
     url: 'https://girke.bioinformatics.ucr.edu/'
 
 user_groups:
-  - Members
+  - Members 
 ---
 
 Profile site: <a href="http://girke.bioinformatics.ucr.edu/members/le-zhang/" target="_blank">http://girke.bioinformatics.ucr.edu/members/le-zhang/</a>.

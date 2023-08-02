@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.baileyserreslab.org'
 
 user_groups:
-  - Professors
+  - Members
 ---
 
 Bailey-Serres lab site: <a href="https://www.baileyserreslab.org/" target="_blank">https://www.baileyserreslab.org/</a>. 

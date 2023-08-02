@@ -18,7 +18,7 @@ organizations:
     url: 'https://girke.bioinformatics.ucr.edu/'
 
 user_groups:
-  - Members
+  - Members 
 ---
 
 Profile site: <a href="https://www.alexborowsky.com/" target="_blank">https://www.alexborowsky.com/</a>.

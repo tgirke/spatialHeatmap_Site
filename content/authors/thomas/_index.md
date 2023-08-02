@@ -17,7 +17,7 @@ organizations:
   - name: University of California, Riverside
     url: 'https://girke.bioinformatics.ucr.edu/'
 user_groups:
-  - Principal Investigators
+  - Members
 ---
 
 
