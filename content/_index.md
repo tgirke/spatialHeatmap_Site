@@ -17,7 +17,8 @@ sections:
         <span><b>Getting started: </b></span>
         <div>
         <img class='icon' src='r.jpg'><a href="https://bioconductor.org/packages/devel/bioc/html/spatialHeatmap.html" target="_blank" style='margin:5px'>Bioconductor</a></img>
-        <img class='icon' src='shiny.jpg'><a href="https://tgirke.shinyapps.io/spatialHeatmap/" target="_blank" style='margin:5px'>Shiny App</a></img>
+        <img class='icon' src='shiny.jpg'><a href="https://tgirke.shinyapps.io/spatialHeatmap/" target="_blank" style='margin:5px'>Shiny App</a></img> <br>
+        <img class='icon' src='shoot.jpg'><a href="https://jianhaizhang.github.io/SHM_SVG" target="_blank" style='margin:5px;'>Custom Images</a></img>
         </div>
         <style>
         #section-hero.home-section.wg-hero { padding-bottom:10px }
