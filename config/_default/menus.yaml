@@ -13,9 +13,12 @@ main:
   - name: Functionalities
     url: post
     weight: 20
+  - name: Publications
+    url: publication
+    weight: 30
   - name: People
     url: people
-    weight: 30
+    weight: 40
   - name: Contact
     url: contact
     weight: 60

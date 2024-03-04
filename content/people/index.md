@@ -24,11 +24,11 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-  - block: markdown                                                                                                                                                                                                                            
-    content:                                                                                                                                                                                                                                   
-      title:                                                                                                                                                                                                                                   
-      subtitle:                                                                                                                                                                                                                                
-      text: | 
+  - block: markdown
+    content: 
+      title:
+      subtitle:
+      text: |
         <style>
         .section-heading.col-12.mb-3.text-center {padding-bottom: 1rem}
         h2.mb-4, #section-markdown {display:none}
